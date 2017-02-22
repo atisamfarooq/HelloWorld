@@ -1,6 +1,8 @@
 # HelloWorld
 Test Project
-i AM the SNAP of master
+i AM the MASter BRANCH
+All snaps can be pulled/merged back to me
+
 
 
 Hello guys 
