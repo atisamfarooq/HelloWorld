@@ -1,3 +1,6 @@
 # HelloWorld
 Test Project
-I am the master branch
+
+
+Hello guys 
+this is me very first time on the git and trying to understand its project management workflow.
