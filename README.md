@@ -1,6 +1,6 @@
 # HelloWorld
 Test Project
-i AM the MASter
+i AM the SNAP of master
 
 
 Hello guys 
