@@ -7,3 +7,5 @@ All snaps can be pulled/merged back to me
 
 Hello guys 
 this is me very first time on the git and trying to understand its project management workflow.
+
+Last time i was on 22 Feb on the GitHub
